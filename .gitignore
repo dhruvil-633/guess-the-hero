@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+myenv/
+.DS_Store
+.env
+
+# Ignore Hugging Face downloaded models only
+guess_game_models_enhanced_v2/model_[0-9]*.pkl
+
